@@ -1,12 +1,11 @@
 # SMART-ORGANIZER
-SMARTORGANIZER, kullanıcıların dosyalarını kategorilere ayırarak düzenlemelerine ve hızlı bir şekilde erişmelerine olanak tanıyan bir dosya yönetim uygulamasıdır.
-
-![Ekran görüntüsü 2025-05-21 000035](https://github.com/user-attachments/assets/7e888e2f-08a5-4bd5-a2e4-ff8c5684ec26)
-![Ekran görüntüsü 2025-05-21 000028](https://github.com/user-attachments/assets/f9c16bb1-191d-440b-b39e-dd7f712c18d6)
-![Ekran görüntüsü 2025-05-21 000020](https://github.com/user-attachments/assets/d74c70af-47a6-4d6b-835a-29835ceae67f)
-![Ekran görüntüsü 2025-05-21 000012](https://github.com/user-attachments/assets/0d079dbc-7093-4fc3-9116-6b392e6901c5)
-![Ekran görüntüsü 2025-05-21 000002](https://github.com/user-attachments/assets/9cfa5f24-e82b-4283-8566-e5dbdcd60dc9)
-    Kategoriler:
+#SMARTORGANIZER, kullanıcıların dosyalarını kategorilere ayırarak düzenlemelerine ve hızlı bir şekilde erişmelerine olanak tanıyan bir dosya yönetim uygulamasıdır.
+![Ekran görüntüsü 2025-05-21 000035](https://github.com/user-attachments/assets/d29ef9ca-efe2-4a58-9fda-f775f7aafc8f)
+![Ekran görüntüsü 2025-05-21 000028](https://github.com/user-attachments/assets/15acbc72-708c-4754-9dde-4c158558e8da)
+![Ekran görüntüsü 2025-05-21 000020](https://github.com/user-attachments/assets/a014c7d3-d80c-4536-814e-926f6f1169d6)
+![Ekran görüntüsü 2025-05-21 000012](https://github.com/user-attachments/assets/958752a0-82e6-46fc-8dbb-e25918394b6d)
+![Ekran görüntüsü 2025-05-21 000002](https://github.com/user-attachments/assets/ef608c18-ae7b-467f-9cf9-eaf5f00e346e)
+Kategoriler:
 
         Tüm Dosyalar: Tüm dosyaları tek bir listede gösterir.
 
@@ -43,3 +42,4 @@ SMARTORGANIZER, kullanıcıların dosyalarını kategorilere ayırarak düzenlem
     Medya: "pablo-pacheco-D3Mag4BKgns-unspla..." (3,6 MB).
 
     Arşivler: "VirtualBox-7.1.8-168469-Win.exe" (118,8 MB).
+
