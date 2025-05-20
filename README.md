@@ -1,5 +1,6 @@
 # SMART-ORGANIZER
 #SMARTORGANIZER, kullanıcıların dosyalarını kategorilere ayırarak düzenlemelerine ve hızlı bir şekilde erişmelerine olanak tanıyan bir dosya yönetim uygulamasıdır.
+
 ![Ekran görüntüsü 2025-05-21 000035](https://github.com/user-attachments/assets/d29ef9ca-efe2-4a58-9fda-f775f7aafc8f)
 ![Ekran görüntüsü 2025-05-21 000028](https://github.com/user-attachments/assets/15acbc72-708c-4754-9dde-4c158558e8da)
 ![Ekran görüntüsü 2025-05-21 000020](https://github.com/user-attachments/assets/a014c7d3-d80c-4536-814e-926f6f1169d6)
