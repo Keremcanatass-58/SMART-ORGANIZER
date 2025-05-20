@@ -1,0 +1,14 @@
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\bin\Debug\SmartOrganizer.exe.config
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\bin\Debug\SmartOrganizer.exe
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\bin\Debug\SmartOrganizer.pdb
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.csproj.AssemblyReference.cache
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.Form1.resources
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.Properties.Resources.resources
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.csproj.GenerateResource.cache
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.exe
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.pdb
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.BelgelerForm.resources
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.MedyalarForm.resources
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.Arsivform.resources
+C:\Users\Kerem\Desktop\Final Pojem(Görsel Programlama)\SmartOrganizer\obj\Debug\SmartOrganizer.DosyaAraForm.resources

@@ -1,0 +1,2 @@
+[20956:13044:0520/232656.021:VERBOSE1:installer.cc(488)] "C:\Users\Kerem\Downloads\ChromeSetup.exe" --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={FB761751-D070-4677-EF3C-2060E9482DD6}&lang=tr&browser=5&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/enterprise_companion/*=2,*/chrome/updater/*=2
+[20956:13044:0520/232701.318:VERBOSE1:installer.cc(605)] Metainstaller WMain returning: 3
