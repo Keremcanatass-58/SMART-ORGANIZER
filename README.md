@@ -1,46 +1,41 @@
-# SMART-ORGANIZER
-#SMARTORGANIZER, kullanıcıların dosyalarını kategorilere ayırarak düzenlemelerine ve hızlı bir şekilde erişmelerine olanak tanıyan bir dosya yönetim uygulamasıdır.
+# SmartOrganizer
 
-![Ekran görüntüsü 2025-05-21 000035](https://github.com/user-attachments/assets/d29ef9ca-efe2-4a58-9fda-f775f7aafc8f)
-![Ekran görüntüsü 2025-05-21 000028](https://github.com/user-attachments/assets/15acbc72-708c-4754-9dde-4c158558e8da)
-![Ekran görüntüsü 2025-05-21 000020](https://github.com/user-attachments/assets/a014c7d3-d80c-4536-814e-926f6f1169d6)
-![Ekran görüntüsü 2025-05-21 000012](https://github.com/user-attachments/assets/958752a0-82e6-46fc-8dbb-e25918394b6d)
-![Ekran görüntüsü 2025-05-21 000002](https://github.com/user-attachments/assets/ef608c18-ae7b-467f-9cf9-eaf5f00e346e)
-Kategoriler:
+A Windows desktop app that scans your **Documents**, **Desktop** and **Downloads** folders and groups files into categories, so you can find, open or clean them up from one place.
 
-        Tüm Dosyalar: Tüm dosyaları tek bir listede gösterir.
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-4.8-512BD4?logo=dotnet&logoColor=white)
+![WinForms](https://img.shields.io/badge/UI-Windows_Forms-0078D4?logo=windows&logoColor=white)
 
-        Belgeler: Metin dosyaları gibi belgeleri içerir (örneğin, "canavar.txt", "Yapılacaklar Listesi.txt").
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef608c18-ae7b-467f-9cf9-eaf5f00e346e" width="720" alt="SmartOrganizer main screen"/>
+</p>
 
-        Medya: Resimler ve diğer medya dosyalarını barındırır (örneğin, PNG, JPG dosyaları).
+## Features
 
-        Arşivler: Çeşitli formatlardaki dosyaları (PDF, DOCX, EXE, vb.) saklar.
+- **Automatic categorization** by file extension:
+  - **Documents**: `.pdf`, `.docx`, `.xlsx`, `.pptx`, `.txt` …
+  - **Media**: `.jpg`, `.png`, `.gif`, `.mp4`, `.mp3` …
+  - **Applications**: `.exe`, `.msi`
+  - **Code**: `.cs`, `.js`, `.py`, `.java`, `.html`, `.css`, `.ts` …
+- **File details**: name, last modified date and human-readable size (B / KB / MB)
+- **Search** by file name across Documents, Desktop, Downloads, Pictures and Videos (including subfolders)
+- **Quick actions** from the context menu: open file, show in Explorer, delete
 
-        Uygulamalar: Kurulum dosyalarını ve yazılımları listeler (örneğin, "ChromeSetup.exe").
+## Screenshots
 
-        Kod/Yazılım: Kod dosyaları ve yazılımlarla ilgili öğeleri içerir.
+| | |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/958752a0-82e6-46fc-8dbb-e25918394b6d" width="380"/> | <img src="https://github.com/user-attachments/assets/a014c7d3-d80c-4536-814e-926f6f1169d6" width="380"/> |
+| <img src="https://github.com/user-attachments/assets/15acbc72-708c-4754-9dde-4c158558e8da" width="380"/> | <img src="https://github.com/user-attachments/assets/d29ef9ca-efe2-4a58-9fda-f775f7aafc8f" width="380"/> |
 
-    Dosya Bilgileri:
+## Getting Started
 
-        Dosya adı, oluşturulma tarihi ve boyut bilgileri tablo formatında sunulur.
+**Requirements:** Windows, Visual Studio 2019+ with the .NET desktop development workload
 
-        Boyutlar bayt (B), kilobayt (KB) ve megabayt (MB) cinsinden gösterilir.
+1. Clone the repository
+2. Open `src/SmartOrganizer/SmartOrganizer.sln`
+3. Press **F5** to build and run
 
-    Arama Özelliği:
+## About
 
-        "Dosya Ara" seçeneği ile kullanıcılar belirli dosyaları hızlıca bulabilir.
-
-    Kullanıcı Dostu Arayüz:
-
-        Basit ve düzenli bir arayüz sunar.
-
-        Dosyalar kategorilere göre gruplandırılarak kolay erişim sağlanır.
-
-Örnek Dosyalar:
-
-    Belgeler: "Yapılacaklar Listesi.txt" (251 B).
-
-    Medya: "pablo-pacheco-D3Mag4BKgns-unspla..." (3,6 MB).
-
-    Arşivler: "VirtualBox-7.1.8-168469-Win.exe" (118,8 MB).
-
+Developed as the final project for the *Visual Programming* course.
